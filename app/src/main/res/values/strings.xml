@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EcommerceApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="product_image">Product Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">App Logo</string>
+    <string name="search_icon">Search Logo</string>
+    <string name="search">Type to Search</string>
+    <string name="camera_icon">Camera Logo</string>
+    <string name="notification_icon">Notification Logo</string>
+    <string name="wishlist_icon">wishlist Logo</string>
+
+
+
+
+</resources>
